@@ -7838,4 +7838,19 @@ del {
   margin-bottom: 10px;
 }
 
+/*-----------------------My own fonts-------------------------*/
+.home-page-name{
+  font-family: 'Serif', serif;
+  font-weight: bold;
+  font-size: 120px;
+}
+
+.home-page-name-description{
+  font-family: 'Serif', serif;
+  font-weight: 100;
+  font-size: 60px; 
+}
+
+
+
 /*# sourceMappingURL=style.css.map */
