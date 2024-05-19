@@ -120,6 +120,7 @@ a {
   a:hover, a:focus, a:active {
     color: #824027; }
 
-.d-flex.flex-column.flex-md-row > section {
-      flex: 1;
+.flex-container {
+  display: flex;
+  justify-content: center; 
 }
