@@ -121,6 +121,7 @@ a {
     color: #824027; }
 
 .flex-container {
+  flex: 1;
   display: flex;
   justify-content: center; 
 }
