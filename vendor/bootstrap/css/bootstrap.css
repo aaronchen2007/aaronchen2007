@@ -7532,6 +7532,10 @@ a.bg-dark:focus, a.bg-dark:hover {
   .m-md-5 {
     margin: 3rem !important;
   }
+  .m-md-6
+  {
+    margin: 5rem;
+  }
   .mt-md-5,
   .my-md-5 {
     margin-top: 3rem !important;
